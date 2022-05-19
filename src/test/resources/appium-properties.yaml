@@ -1,0 +1,9 @@
+!!com.example.app.Properties.AppiumProperties
+platformName: Android
+deviceName: device
+udid: emulator-5554
+automationName: UIAutomator2
+app: C:\DATA\APK\sample-apk.apk
+newCommandTimeout: 300
+autoGrantPermissions: true
+appiumUrl: http://localhost:4723/wd/hub
